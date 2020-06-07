@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
         options.setStatusBarColor(getResources().getColor(R.color.colorPrimaryDark));
         options.setToolbarColor(getResources().getColor(R.color.colorPrimary));
 
-        options.setToolbarTitle("Recortar imagen");
+        options.setToolbarTitle("Save Image");
 
         return options;
     }
